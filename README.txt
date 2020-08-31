@@ -1,0 +1,2 @@
+Hello! This was a small project I made for my Humanoids class where we were tasked to create an app that used the sensors on our phone. Using the accelerometer on a phone, I programmed a simple ball maze game where players must tilt their phone to navigate and exit a maze. Each iteration, the maze is randomly generated to make sure every experience a user has is unique (or as unique as the randomness of the generator will allow :D ). 
+Here is a link to a video that shows its functionality: https://www.youtube.com/watch?v=bmj65OM7dC8
